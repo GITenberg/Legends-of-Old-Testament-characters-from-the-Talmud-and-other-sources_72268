@@ -1,0 +1,33 @@
+_repo: Legends-of-Old-Testament-characters-from-the-Talmud-and-other-sources_72268
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Baring-Gould, Sabine
+    - Gould, Sabine Baring
+    - Gould, S. Baring
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: https://en.wikipedia.org/wiki/Sabine_Baring-Gould
+description: ''
+gutenberg_issued: '2023-11-30'
+identifiers:
+  gutenberg: '72268'
+language: en
+pgterms:marc905: 20170519232545baringgoul
+pgterms:marc906: '1871'
+pgterms:marc907: gb
+production_note: David Edwards, David King, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net. (This file was produced from images generously made
+  available by The Internet Archive.)
+publication_note: '  $aLondon :$bMacmillan and Co., $c1871.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Legends of Old Testament characters, from the Talmud and other sources
+url: http://www.gutenberg.org/ebooks/72268
