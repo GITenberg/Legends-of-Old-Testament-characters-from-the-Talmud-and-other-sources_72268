@@ -1,5 +1,8 @@
 _repo: Legends-of-Old-Testament-characters-from-the-Talmud-and-other-sources_72268
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72268-h/images/cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: https://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72268#Legends-of-Old-Testament-characters-from-the-Talmud-and-other-sources
 gutenberg_issued: '2023-11-30'
 identifiers:
   gutenberg: '72268'
